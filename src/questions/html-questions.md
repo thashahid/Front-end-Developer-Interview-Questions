@@ -1,9 +1,10 @@
 ---
-title: HTML Questions
+title: HTML Questions for beginners
 layout: layouts/page.njk
 permalink: /questions/html-questions/index.html
 ---
 
+* What is the full name of HTML?
 * What does a `doctype` do?
 * How do you serve a page with content in multiple languages?
 * What kind of things must you be wary of when designing or developing for multilingual sites?
@@ -16,3 +17,4 @@ permalink: /questions/html-questions/index.html
 * Why you would use a `srcset` attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.
 * Have you used different HTML templating languages before?
 * What is the difference between `canvas` and `svg`?
+
